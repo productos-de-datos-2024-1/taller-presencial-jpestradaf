@@ -1,6 +1,7 @@
 .DS_Store
 
-datalake/
+# datalake/ ---comenté lineas 3, 63. Luego agregué una línea pa ignorar lo de la clase pasada
+input/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -60,7 +61,7 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
+#*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
